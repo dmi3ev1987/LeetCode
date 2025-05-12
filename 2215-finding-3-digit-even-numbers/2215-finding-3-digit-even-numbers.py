@@ -1,5 +1,5 @@
 class Solution:
-    def findEvenNumbers(self, digits: list[int]) -> list[int]:
+    def find_even_numbers(self, digits: list[int]) -> list[int]:
         find_even_index = [
             index for index in range(len(digits)) if digits[index] % 2 == 0
         ]
@@ -15,14 +15,14 @@ class Solution:
                     temp_result.append(str(copy_digits.pop(index)))
                 else:
                     temp_result = [str(copy_digits.pop(index))]
-                    temp_result.append(str((copy_digits.pop(even_index))))
+                    temp_result.append(str(copy_digits.pop(even_index)))
                     temp_result = temp_result[::-1]
-                if temp_result[-1] == "0":
+                if temp_result[-1] == '0':
                     continue
                 for number in copy_digits:
                     list_to_append = temp_result.copy()
                     list_to_append.insert(1, str(number))
                     list_to_append = list_to_append[::-1]
-                    result.append(int("".join(list_to_append)))
+                    result.append(int(''.join(list_to_append)))
 
         return sorted(set(result))
