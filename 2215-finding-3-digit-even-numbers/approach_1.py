@@ -1,5 +1,5 @@
 class Solution:
-    def findEvenNumbers(self, digits: List[int]) -> List[int]:
+    def find_even_numbers(self, digits: list[int]) -> list[int]:
         numbers_set = set()
         length = len(digits)
         for i in range(length):
