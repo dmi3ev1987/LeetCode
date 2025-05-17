@@ -48,6 +48,5 @@ ignore = [
     "INP001",
     # leetcode
     "SIM109",
-    "C414",
     "PLR1714",
 ]

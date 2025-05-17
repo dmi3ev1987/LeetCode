@@ -10,4 +10,4 @@ class Solution:
                     number = digits[i] * 100 + digits[j] * 10 + digits[k]
                     if number >= 100 and number % 2 == 0:
                         numbers_set.add(number)
-        return sorted(list(numbers_set))
+        return sorted(numbers_set)
