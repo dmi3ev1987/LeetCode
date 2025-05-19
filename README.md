@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/dmi3ev1987/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/dmi3ev1987/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
