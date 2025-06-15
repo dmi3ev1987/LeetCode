@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/dmi3ev1987/LeetCode/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/dmi3ev1987/LeetCode/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
