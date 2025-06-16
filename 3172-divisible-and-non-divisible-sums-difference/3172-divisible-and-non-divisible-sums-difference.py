@@ -8,4 +8,3 @@ class Solution:
             else:
                 sum_not_divisible_m += number
         return sum_not_divisible_m - sum_divisible_m
-        
