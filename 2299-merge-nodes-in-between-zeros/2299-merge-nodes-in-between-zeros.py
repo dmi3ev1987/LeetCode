@@ -4,14 +4,14 @@ class Solution:
         while current and current.next:
             if current.val == 0 and current.next.val is not None:
                 count = 0
-                inner_current = current.next
+                inner_node = current.next
                 
-                while inner_current.val != 0:
-                    count += inner_current.val
-                    inner_current = inner_current.next
+                while inner_node.val != 0:
+                    count += inner_node.val
+                    inner_node = inner_node.next
                 
                 current.val = count
-                current.next = inner_current
+                current.next = inner_node
             
             if current.next and current.next.next is None:
                 current.next = None
