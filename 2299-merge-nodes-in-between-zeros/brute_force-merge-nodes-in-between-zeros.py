@@ -18,8 +18,10 @@ class Solution:
                     inner_current = inner_current.next
 
                 current.val = count + inner_current.val
-                current.next = ListNode(inner_current.next.val, next=inner_current.next.next)
-                
+                current.next = ListNode(
+                    inner_current.next.val, next=inner_current.next.next
+                )
+
             if current.next.next is None:
                 current.next = None
                 break
