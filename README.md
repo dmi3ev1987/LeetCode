@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2048-build-array-from-permutation](https://github.com/dmi3ev1987/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/dmi3ev1987/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dmi3ev1987/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/dmi3ev1987/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3194-find-words-containing-character](https://github.com/dmi3ev1987/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/dmi3ev1987/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/dmi3ev1987/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/dmi3ev1987/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Linked List
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/dmi3ev1987/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/dmi3ev1987/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
