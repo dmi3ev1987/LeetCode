@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/dmi3ev1987/LeetCode/tree/master/0007-reverse-integer) |
+| [2556-convert-the-temperature](https://github.com/dmi3ev1987/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/dmi3ev1987/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dmi3ev1987/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dmi3ev1987/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
