@@ -1,5 +1,6 @@
 from itertools import combinations
 
+
 class Solution:
     def subsetXORSum(self, nums: list[int]) -> int:
         subsets = []
