@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/dmi3ev1987/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1635-number-of-good-pairs](https://github.com/dmi3ev1987/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dmi3ev1987/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dmi3ev1987/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/dmi3ev1987/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/dmi3ev1987/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1635-number-of-good-pairs](https://github.com/dmi3ev1987/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dmi3ev1987/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/dmi3ev1987/LeetCode/tree/master/0007-reverse-integer) |
+| [1635-number-of-good-pairs](https://github.com/dmi3ev1987/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dmi3ev1987/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2556-convert-the-temperature](https://github.com/dmi3ev1987/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/dmi3ev1987/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/dmi3ev1987/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1635-number-of-good-pairs](https://github.com/dmi3ev1987/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
