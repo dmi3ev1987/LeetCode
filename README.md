@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/dmi3ev1987/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1205-defanging-an-ip-address](https://github.com/dmi3ev1987/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dmi3ev1987/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/dmi3ev1987/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -104,4 +105,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/dmi3ev1987/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Tree
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/dmi3ev1987/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/dmi3ev1987/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/dmi3ev1987/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
