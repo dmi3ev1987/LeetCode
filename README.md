@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/dmi3ev1987/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1580-shuffle-the-array](https://github.com/dmi3ev1987/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/dmi3ev1987/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dmi3ev1987/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dmi3ev1987/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
