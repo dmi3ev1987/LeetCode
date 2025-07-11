@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0782-jewels-and-stones](https://github.com/dmi3ev1987/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dmi3ev1987/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1205-defanging-an-ip-address](https://github.com/dmi3ev1987/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dmi3ev1987/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dmi3ev1987/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dmi3ev1987/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/dmi3ev1987/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Greedy
 |  |
 | ------- |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dmi3ev1987/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/dmi3ev1987/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Backtracking
 |  |
