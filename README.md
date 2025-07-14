@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dmi3ev1987/LeetCode/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/dmi3ev1987/LeetCode/tree/master/0056-merge-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/dmi3ev1987/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1580-shuffle-the-array](https://github.com/dmi3ev1987/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/dmi3ev1987/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/dmi3ev1987/LeetCode/tree/master/0056-merge-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/dmi3ev1987/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dmi3ev1987/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3778-transform-array-by-parity](https://github.com/dmi3ev1987/LeetCode/tree/master/3778-transform-array-by-parity) |
