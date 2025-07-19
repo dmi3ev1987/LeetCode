@@ -9,7 +9,7 @@ class Solution:
         tree_list = []
         stack = []
         current = root
-        
+
         while current or stack:
             while current:
                 stack.append(current)
@@ -17,7 +17,7 @@ class Solution:
             current = stack.pop()
             tree_list.append(current.val)
             current = current.right
-        
+
         current = root
         sorted_tree_list = sorted(tree_list)
 
@@ -26,8 +26,9 @@ class Solution:
                 stack.append(current)
                 current = current.left
             current = stack.pop()
-            current.val = sum(sorted_tree_list[sorted_tree_list.index(current.val):])
-            current = current.right 
-        
+            current.val = sum(
+                sorted_tree_list[sorted_tree_list.index(current.val) :]
+            )
+            current = current.right
+
         return root
-        
