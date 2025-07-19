@@ -137,16 +137,23 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dmi3ev1987/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dmi3ev1987/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dmi3ev1987/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dmi3ev1987/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dmi3ev1987/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dmi3ev1987/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Matrix
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/dmi3ev1987/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dmi3ev1987/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
