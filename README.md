@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0007-reverse-integer](https://github.com/dmi3ev1987/LeetCode/tree/master/0007-reverse-integer) |
 | [1635-number-of-good-pairs](https://github.com/dmi3ev1987/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dmi3ev1987/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2491-smallest-even-multiple](https://github.com/dmi3ev1987/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/dmi3ev1987/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/dmi3ev1987/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dmi3ev1987/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Number Theory
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/dmi3ev1987/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dmi3ev1987/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Prefix Sum
 |  |
