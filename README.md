@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0001-two-sum](https://github.com/dmi3ev1987/LeetCode/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/dmi3ev1987/LeetCode/tree/master/0056-merge-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/dmi3ev1987/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/dmi3ev1987/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/dmi3ev1987/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/dmi3ev1987/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dmi3ev1987/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
