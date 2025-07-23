@@ -7,4 +7,3 @@ class Solution:
         for _ in range(zero_counter):
             numbers.remove(0)
             numbers.append(0)
-        
