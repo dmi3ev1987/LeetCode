@@ -7,5 +7,5 @@ class Solution:
             last_digit = number_copy % 10
             reversed_number = reversed_number * 10 + last_digit
             number_copy //= 10
-        
+
         return number == reversed_number
