@@ -1,5 +1,6 @@
 from collections import deque
 
+
 class MyStack:
     def __init__(self):
         self.stack = deque()
@@ -10,7 +11,6 @@ class MyStack:
         for _ in range(len(self.stack)):
             self.temp.append(self.stack.popleft())
         self.stack, self.temp = self.temp, self.stack
-
 
     def pop(self) -> int:
         if not self.empty():
