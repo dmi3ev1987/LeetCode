@@ -168,4 +168,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dmi3ev1987/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dmi3ev1987/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dmi3ev1987/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dmi3ev1987/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dmi3ev1987/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
