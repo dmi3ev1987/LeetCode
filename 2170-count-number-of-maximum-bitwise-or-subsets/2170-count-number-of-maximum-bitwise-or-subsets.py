@@ -16,6 +16,8 @@ class Solution:
             current_bitwise_or = 0
             for number in subset:
                 current_bitwise_or |= number
+                if current_bitwise_or == max_bitwise_or:
+                    break
             if current_bitwise_or == max_bitwise_or:
                 count += 1
         return count + 1
