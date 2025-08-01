@@ -13,9 +13,9 @@ class Solution:
             max_bitwise_or |= number
         count = 0
         for subset in subsets[:-1]:
-            current_or = 0
+            current_bitwise_or = 0
             for number in subset:
-                current_or |= number
-            if current_or == max_bitwise_or:
+                current_bitwise_or |= number
+            if current_bitwise_or == max_bitwise_or:
                 count += 1
         return count + 1
