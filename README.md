@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dmi3ev1987/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dmi3ev1987/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dmi3ev1987/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/dmi3ev1987/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/dmi3ev1987/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dmi3ev1987/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dmi3ev1987/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
