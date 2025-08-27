@@ -8,7 +8,7 @@ class Solution:
             for index in range(length):
                 matrix.extend(grid[level][index : index + 3])
                 matrix.extend(grid[level + 1][index : index + 3])
-                matrix.extend(grid[level + 2][index  :index + 3])
+                matrix.extend(grid[level + 2][index : index + 3])
                 row_to_insert.append(max(matrix))
                 matrix = []
             result.append(row_to_insert)
