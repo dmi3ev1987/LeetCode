@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dmi3ev1987/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dmi3ev1987/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dmi3ev1987/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/dmi3ev1987/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2714-left-and-right-sum-differences](https://github.com/dmi3ev1987/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/dmi3ev1987/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/dmi3ev1987/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/dmi3ev1987/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/dmi3ev1987/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
