@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3379-score-of-a-string](https://github.com/dmi3ev1987/LeetCode/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/dmi3ev1987/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dmi3ev1987/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/dmi3ev1987/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dmi3ev1987/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0350-intersection-of-two-arrays-ii](https://github.com/dmi3ev1987/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dmi3ev1987/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/dmi3ev1987/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [3794-reverse-string-prefix](https://github.com/dmi3ev1987/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
