@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/dmi3ev1987/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3194-find-words-containing-character](https://github.com/dmi3ev1987/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/dmi3ev1987/LeetCode/tree/master/3379-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/dmi3ev1987/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/dmi3ev1987/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dmi3ev1987/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/dmi3ev1987/LeetCode/tree/master/3794-reverse-string-prefix) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dmi3ev1987/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dmi3ev1987/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dmi3ev1987/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3498-reverse-degree-of-a-string](https://github.com/dmi3ev1987/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/dmi3ev1987/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3701-compute-alternating-sum](https://github.com/dmi3ev1987/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Linked List
