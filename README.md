@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3701-compute-alternating-sum](https://github.com/dmi3ev1987/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3778-transform-array-by-parity](https://github.com/dmi3ev1987/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dmi3ev1987/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/dmi3ev1987/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/dmi3ev1987/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/dmi3ev1987/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/dmi3ev1987/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/dmi3ev1987/LeetCode/tree/master/2481-strictly-palindromic-number) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/dmi3ev1987/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
