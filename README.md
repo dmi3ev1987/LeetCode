@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dmi3ev1987/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dmi3ev1987/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dmi3ev1987/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3945-digit-frequency-score](https://github.com/dmi3ev1987/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3783-mirror-distance-of-an-integer](https://github.com/dmi3ev1987/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/dmi3ev1987/LeetCode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dmi3ev1987/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3945-digit-frequency-score](https://github.com/dmi3ev1987/LeetCode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
