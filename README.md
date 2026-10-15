@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dmi3ev1987/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3701-compute-alternating-sum](https://github.com/dmi3ev1987/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3778-transform-array-by-parity](https://github.com/dmi3ev1987/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3838-weighted-word-mapping](https://github.com/dmi3ev1987/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dmi3ev1987/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/dmi3ev1987/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/dmi3ev1987/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3567-convert-date-to-binary](https://github.com/dmi3ev1987/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dmi3ev1987/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/dmi3ev1987/LeetCode/tree/master/3794-reverse-string-prefix) |
+| [3838-weighted-word-mapping](https://github.com/dmi3ev1987/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dmi3ev1987/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3498-reverse-degree-of-a-string](https://github.com/dmi3ev1987/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/dmi3ev1987/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3701-compute-alternating-sum](https://github.com/dmi3ev1987/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/dmi3ev1987/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/dmi3ev1987/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |
